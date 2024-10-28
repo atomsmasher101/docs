@@ -60,7 +60,7 @@ variables:
   - name: totalSubsGiftedShared
     type: boolean
     version: 0.2.5
-    description:  A boolean value if the user gifting the sub(s) shares there total gift count.
+    description:  A boolean value if the user gifting the sub(s) shares their total gift count.
     value: true
   - name: bonusGifts
     type: boolean
